@@ -1,0 +1,2 @@
+Css library used: Tailwind css
+https://tailwindcss.com/
